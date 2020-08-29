@@ -75,7 +75,7 @@ p {
     color: lightcoral;
     font-size: medium;
     margin-top: 5px;
-    text-align: center;
+    
 }
 
 .leftText {
@@ -122,14 +122,17 @@ main {
 }
 .inner {
     padding: 20px;
-    padding-bottom: 50px;
+    padding-bottom: 75px;
 }
 .footer {
     height: 50px;
     margin-top: -50px;
     text-align: center;
-    background-color: rgb(65, 27, 134);
+    background-color: lightgray;
 }
 .centerText {
     margin: 20px;
+}
+a {
+    color: black
 }
